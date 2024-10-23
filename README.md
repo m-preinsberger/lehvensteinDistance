@@ -7,7 +7,7 @@ This project is a command-line interface (CLI) that calculates the Levenshtein d
 - Takes an input word from the user.
 - Downloads an English dictionary and compares the input word to the dictionary.
 - Calculates the Levenshtein distance for each word in the dictionary.
-- Outputs the top 10 closest words based on the Levenshtein distance.
+- Outputs the top n closest words based on the Levenshtein distance.
 
 ## How It Works
 
